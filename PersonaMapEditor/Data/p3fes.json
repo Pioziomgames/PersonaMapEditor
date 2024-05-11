@@ -1,0 +1,59 @@
+{
+  "Name": "P3 Fes",
+  "Tiles": [
+    {
+      "Id": 0,
+      "FileName": "p3_0.png",
+      "SizeX": 1,
+      "SizeY": 1
+    },
+    {
+      "Id": 1,
+      "FileName": "p3_1.png",
+      "SizeX": 1,
+      "SizeY": 1
+    },
+    {
+      "Id": 2,
+      "FileName": "p3_2.png",
+      "SizeX": 1,
+      "SizeY": 1
+    },
+    {
+      "Id": 3,
+      "FileName": "p3_3.png",
+      "SizeX": 1,
+      "SizeY": 1
+    },
+    {
+      "Id": 4,
+      "FileName": "p3_4.png",
+      "SizeX": 1,
+      "SizeY": 1
+    },
+    {
+      "Id": 5,
+      "FileName": "p3_5.png",
+      "SizeX": 2,
+      "SizeY": 2
+    },
+    {
+      "Id": 6,
+      "FileName": "p3_6.png",
+      "SizeX": 2,
+      "SizeY": 2
+    },
+    {
+      "Id": 7,
+      "FileName": "p3_7.png",
+      "SizeX": 2,
+      "SizeY": 2
+    },
+    {
+      "Id": 8,
+      "FileName": "p3_8.png",
+      "SizeX": 2,
+      "SizeY": 2
+    }
+  ]
+}
